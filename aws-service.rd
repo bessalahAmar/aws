@@ -107,3 +107,11 @@ WorkSpaces : Amazon WorkSpaces is a fully managed desktop computing service in t
 WorkDocs : Amazon WorkDocs is a fully managed, secure enterprise storage and sharing service with strong admini­str­ative controls and feedback capabi­lities that improve user produc­tivity.
 
 WorkMail : Amazon WorkMail is a managed email and calend­aring service that offers strong security controls and support for existing desktop and mobile clients.
+
+AWS CodeStar : vous permet de développer, de générer et de déployer rapidement des applications sur AWS. AWS CodeStar se présente avec une interface d'utilisationunifiée pour vous laisser gérer facilement vos procédures de développement de logiciel depuis un seul et même endroit. Avec AWS CodeStar, vous pouvez configurer toute votre chaîne d'outils de livraison continue en quelques minutes et commencer à publier du code plus rapidement
+
+AWS Fargate est un moteur de calcul sans serveur pour les conteneurs. Il fonctionne avec Amazon Elastic Container Service (ECS) et Amazon Elastic Kubernetes Service (EKS).
+
+
+
+
